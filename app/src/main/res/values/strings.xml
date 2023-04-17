@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EtmCommonLib</string>
+
+    <string-array name="etms">
+        <item>Mosambee</item>
+        <item>Veriphone</item>
+    </string-array>
+</resources>
